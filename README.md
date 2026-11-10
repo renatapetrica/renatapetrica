@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**renatapetrica/renatapetrica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Renata
 
-Here are some ideas to get you started:
+**Accounting × Business × Digital Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Accounting and Management Information Systems student at the University of Oradea, with practical experience in administrative support, digital marketing, customer service, and sales.
+
+I'm interested in how digital tools, data, and AI can improve business processes, organization, and everyday work.
+
+## What I'm learning
+
+- **Accounting & finance:** developing my knowledge of accounting, financial documentation, and business operations.
+- **Digital tools & AI:** exploring AI-assisted workflows, content management, and productivity tools.
+- **GitHub & portfolio projects:** learning how to use GitHub, collaborate on projects, and build my professional portfolio.
+
+## Tools & Skills
+
+Microsoft Office · Excel · SAGA · Notion · Metricool · Canva · AI Tools
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/renata-petrica/)
